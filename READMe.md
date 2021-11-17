@@ -5,7 +5,7 @@ i enjoy working on some figma designs in my free-time, usually for my friend's p
 
 ## medical emergency mobile app
 <details open>
-<img src="https://github.com/subrami/figma-portfolio/blob/main/medical.png?raw=true" alt="medical 1" width="200"/> &nbsp; 
+<img src="https://github.com/subrami/figma-portfolio/blob/main/medical.png?raw=true" alt="medical 1" width="200"/>
 <img src="https://github.com/subrami/figma-portfolio/blob/main/medical%20(1).png" alt="medical 2" width="400"/>
 
 </details>
