@@ -10,4 +10,6 @@ i enjoy working on some figma designs in my free-time, usually for my friend's p
 </details>
 
 ## sakura (watch together!) web app
+<details>
 <img src="https://github.com/subrami/figma-portfolio/blob/main/Sakura%20Prototype%20-%20Login.png" alt="sakura login" width="600"/>
+</details>
