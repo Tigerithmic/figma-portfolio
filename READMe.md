@@ -5,10 +5,9 @@ i enjoy working on some figma designs in my free-time, usually for my friend's p
 
 ## medical emergency mobile app
 
-<img src="https://github.com/subrami/figma-portfolio/blob/main/medical.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/subrami/figma-portfolio/blob/main/medical.png?raw=true" alt="medical 1" width="200"/> <img src="https://github.com/subrami/figma-portfolio/blob/main/medical%20(1).png" alt="medical 2" width="200"/>
 
-![alt text](https://github.com/subrami/figma-portfolio/blob/main/medical%20(1).png?raw=true)
+
 
 ## sakura (watch together!) web app
-
-![alt text](https://github.com/subrami/figma-portfolio/blob/main/Sakura%20Prototype%20-%20Login.png?raw=true)
+<img src="https://github.com/subrami/figma-portfolio/blob/main/Sakura%20Prototype%20-%20Login.png" alt="sakura login" width="200"/>
